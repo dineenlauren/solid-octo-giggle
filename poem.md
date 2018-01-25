@@ -1,6 +1,6 @@
-'Tis Moonlight, Summer Moonlight
+#'Tis Moonlight, Summer Moonlight
 
-'Tis moonlight, summer moonlight,
+'Tis *moonlight*, _summer_ *moonlight*,
 All soft and still and fair;
 The solemn hour of midnight
 Breathes sweet thoughts everywhere,
@@ -15,6 +15,6 @@ A lovely form is laid;
 Green grass and dew-steeped flowers
 Wave gently round her head.
 
--- Emily Bronte
+-- *Emily Bronte*
 
 http://www.public-domain-poetry.com/emily-bronte/tis-moonlight-summer-moonlight-9622
