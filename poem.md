@@ -15,6 +15,6 @@ A lovely form is laid;
 Green grass and dew-steeped flowers  
 Wave gently round her head.  
 
--- **_Emily Bronte_**
+-- **_Emily Bront&#x00EB;_**
 
-http://www.public-domain-poetry.com/emily-bronte/tis-moonlight-summer-moonlight-9622
+[ 'Tis Moodnlight, Summer Moonlight ](http://www.public-domain-poetry.com/emily-bronte/tis-moonlight-summer-moonlight-9622)
